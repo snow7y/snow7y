@@ -1,8 +1,8 @@
-### About Yuki Kimoto
+## About Yuki Kimoto
 
 Hi👋 I am a student in Japan and I study programming everyday.
 
-My profile
+### 🔰 my profile
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukikimoto&layout=compact&show_icons=true&theme=tokyonight" />
