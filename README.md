@@ -1,4 +1,4 @@
-## About Yuki Kimoto
+## About Yuki.K
 
 Hi👋 I am a student in Japan and I study programming everyday.
 
