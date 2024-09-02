@@ -5,11 +5,11 @@ Hi👋 I am a student in Japan and I study programming everyday.
 ### 🔰 my profile
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukikimoto&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yukikimoto&theme=tokyonight&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow7y&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=snow7y&theme=tokyonight&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yukikimoto&theme=tokyonight&column=8
+[![trophy](https://github-profile-trophy.vercel.app/?username=snow7y&theme=tokyonight&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
